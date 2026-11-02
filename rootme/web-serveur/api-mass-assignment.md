@@ -3,12 +3,12 @@
 ## Infos
 
 - Catégorie : Web - Serveur
-- Difficulté / Points :
+- Difficulté / Points : 20 
 - Fichiers / URL fournis : interface Swagger de l'API
 
 ## Énoncé
 
-*(à compléter)*
+Votre ami vous remercie pour votre précédente remontée de vulnérabilité, et vous assure que cette fois-ci, il a supprimé la possibilité d’accès aux notes, et il a même créé un rôle d’administration 
 
 ## TL;DR
 
