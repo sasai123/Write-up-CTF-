@@ -1,6 +1,7 @@
 # Point à la ligne
 
 ## Infos
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
 
 - Catégorie : Stéganographie
 - Difficulté / Points :
@@ -8,9 +9,9 @@
 
 ## Énoncé
 
-*(à compléter)*
+“Rien de trop est un point dont on parle sans cesse et qu’on n’observe point.”
 
-> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 
 ## TL;DR
 
