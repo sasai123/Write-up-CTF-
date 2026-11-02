@@ -8,7 +8,7 @@
 
 ## Énoncé
 
-*(à compléter)* Une nouvelle branche où un utilisateur anonyme se cache a été ajoutée à l'annuaire.
+Une nouvelle branche où un utilisateur anonyme se cache a été ajoutée à l'annuaire.
 
 > Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
 
