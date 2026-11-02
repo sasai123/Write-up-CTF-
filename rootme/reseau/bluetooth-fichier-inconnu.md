@@ -23,7 +23,8 @@ En analysant la capture Bluetooth, on retrouve l'adresse de l'appareil et son no
 ## Reconnaissance / Exploitation
 
 1. Ouvrir le fichier avec wireshark
-2. Décoder dans wireshark wireless -> Equipement bluetooth 
+2. Décoder dans wireshark wireless -> Equipement bluetooth
+![Description](img/bluetooth-fichier-inconnu.png)
 
 En lisant la capture, j'ai relevé :
 - Adresse de l'appareil : `0C:B3:19:B9:4F:C6`
