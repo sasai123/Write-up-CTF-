@@ -1,0 +1,13 @@
+# Exports bruts Notion (jamais sur GitHub)
+*.zip
+export*/
+
+# Secrets
+*.env
+*.key
+*.pem
+*.ovpn
+secrets/
+
+.DS_Store
+__pycache__/
