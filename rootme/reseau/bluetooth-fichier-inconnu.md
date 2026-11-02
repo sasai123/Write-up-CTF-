@@ -36,4 +36,5 @@ En lisant la capture, j'ai relevé :
 
 ## Ce que j'ai appris
 
-*(à compléter)*
+1 Lire une capture bluetooth les détails du paquet 
+2 Utiliser des outils integrer a wireshark pour lire des donnés bluetooth
