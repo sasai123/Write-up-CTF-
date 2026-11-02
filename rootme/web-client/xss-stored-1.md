@@ -1,16 +1,17 @@
 # XSS - Stored 1
 
 ## Infos
-
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+> 
 - Catégorie : Web - Client
 - Difficulté / Points :
 - Fichiers / URL fournis : page avec un champ dont le contenu est stocké et réaffiché
 
 ## Énoncé
 
-*(à compléter)*
+Volez le cookie de session de l’administrateur et utilisez le pour valider l’épreuve
 
-> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 
 ## TL;DR
 
