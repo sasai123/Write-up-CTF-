@@ -3,12 +3,13 @@
 ## Infos
 
 - Catégorie : Web - Serveur
-- Difficulté / Points :
+- Difficulté / Points : 20
 - Fichiers / URL fournis : galerie photo avec un formulaire d'upload
 
 ## Énoncé
 
-*(à compléter)*
+Votre objectif est de compromettre cette galerie photo en y uploadant du code PHP.
+Récupérez le mot de passe de validation dans le fichier .passwd à la racine de l’application.
 
 ## TL;DR
 
