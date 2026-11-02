@@ -10,6 +10,8 @@
 
 *(à compléter)*
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 Le champ est vulnérable à une **XSS stockée** : mon payload est enregistré puis exécuté quand quelqu'un ouvre la page. Comme c'est l'administrateur qui la consulte, j'utilise la XSS pour envoyer son cookie de session vers un serveur que je contrôle (**session hijacking**).

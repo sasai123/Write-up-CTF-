@@ -10,6 +10,8 @@
 
 Un échange de lettres. Utilisez la dernière « phrase cachée » pour valider l'épreuve.
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 Le texte cache un message par **acrostiche** : il faut lire seulement le premier mot de chaque ligne. La dernière phrase cachée donne le flag.

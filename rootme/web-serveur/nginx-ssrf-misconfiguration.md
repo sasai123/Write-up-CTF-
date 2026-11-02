@@ -10,6 +10,8 @@
 
 *(à compléter)*
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 Le bloc `/dir_enum` de la config nginx recolle ce qu'on écrit après `dir_enum` derrière le nom du serveur backend, sans `/`. On contrôle donc la fin du nom d'hôte appelé. En le faisant pointer vers `127.0.0.1`, nginx se fait une requête à lui-même et donne accès au dossier `/uploads/`, normalement réservé au local : c'est une **SSRF** (*Server-Side Request Forgery*) due à une mauvaise configuration.

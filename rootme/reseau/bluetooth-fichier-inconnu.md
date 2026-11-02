@@ -10,6 +10,8 @@
 
 *(à compléter)*
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 En analysant la capture Bluetooth, on retrouve l'adresse de l'appareil et son nom de modèle, qui constituent la réponse.

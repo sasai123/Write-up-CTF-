@@ -10,6 +10,8 @@
 
 *(à compléter)*
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 Les chiffres correspondent au clavier **T9** d'un vieux téléphone : chaque groupe de chiffres désigne une lettre selon le nombre d'appuis sur une touche. En les décodant, on obtient le mot caché.

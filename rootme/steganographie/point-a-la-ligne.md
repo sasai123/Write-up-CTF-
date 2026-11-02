@@ -10,6 +10,8 @@
 
 *(à compléter)*
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 Le message est caché autour des **points** du texte. En lisant les lettres situées au-dessus/autour de chaque point, dans le bon sens, on reconstitue le flag.

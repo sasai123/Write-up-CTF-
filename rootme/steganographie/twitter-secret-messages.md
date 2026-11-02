@@ -10,6 +10,8 @@
 
 *(à compléter)*
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 La phrase contient des **homoglyphes** : des caractères qui ressemblent à des lettres normales mais qui sont en réalité d'autres caractères Unicode (cyrillique, fullwidth…). Ces caractères marquent un message caché, qu'un outil permet de décoder.

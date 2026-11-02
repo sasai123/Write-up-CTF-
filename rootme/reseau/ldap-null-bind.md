@@ -10,6 +10,8 @@
 
 *(à compléter)* Une nouvelle branche où un utilisateur anonyme se cache a été ajoutée à l'annuaire.
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 Le serveur LDAP accepte un **null bind** : on se connecte sans identifiants. En interrogeant la bonne branche de l'annuaire (`ou=anonymous`), on peut lister ses entrées et récupérer l'information cherchée.

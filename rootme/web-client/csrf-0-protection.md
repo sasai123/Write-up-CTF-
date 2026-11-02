@@ -10,6 +10,8 @@
 
 *(à compléter)*
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 ## TL;DR
 
 Le formulaire qui change le profil n'a aucune protection CSRF (pas de token). On peut donc héberger une page qui envoie la requête à la place de la victime : dès qu'elle l'ouvre, son profil est modifié sans qu'elle le veuille. C'est une **CSRF** (*Cross-Site Request Forgery*).
