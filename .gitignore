@@ -1,8 +1,8 @@
-# Exports bruts Notion (jamais sur GitHub)
+
 *.zip
 export*/
 
-# Secrets
+
 *.env
 *.key
 *.pem
