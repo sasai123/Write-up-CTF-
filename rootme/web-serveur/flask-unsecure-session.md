@@ -3,7 +3,7 @@
 ## Infos
 
 - Catégorie : Web - Serveur
-- Difficulté / Points :
+- Difficulté / Points : 20
 - Fichiers / URL fournis : application Flask avec une page de connexion
 
 ## Énoncé
