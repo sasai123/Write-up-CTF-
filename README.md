@@ -1,6 +1,7 @@
 # Write-ups CTF & Cybersécurité
 
-> **Tout le monde est motivé sur un CV. Sur GitHub, on voit qui a un vrai homelab et qui a vraiment bossé.**
+**Tout le monde est motivé sur un CV. Sur GitHub, on voit qui a un vrai homelab et qui a vraiment bossé.**
+>Rootme 1510 points
 
 Ce dépôt regroupe mes writeups de challenges (Root-Me, CTF), mes certifications et l'avancement de mon homelab.
 
