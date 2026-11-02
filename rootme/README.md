@@ -1,9 +1,9 @@
-# 🧩 Root-Me
+# Root-Me
 
-> ⚠️ Conformément aux règles de Root-Me, **aucun flag ni mot de passe de validation n'est publié**.
+> Conformément aux règles de Root-Me, **aucun flag ni mot de passe de validation n'est publié**.
 > Les writeups présentent la méthodologie, les notions apprises et la manière de corriger chaque faille.
 
-## 🖥️ Web - Serveur (13 challenges)
+## Web - Serveur (13 challenges)
 
 | Challenge | Points | Notions |
 |---|---|---|

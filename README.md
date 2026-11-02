@@ -1,31 +1,35 @@
-# 🛡️ Write-ups CTF & Cybersécurité
+# Write-ups CTF & Cybersécurité
 
-> Mes writeups de challenges (Root-Me, CTF), mes certifications et le suivi de mon homelab.
+> **Tout le monde est motivé sur un CV. Sur GitHub, on voit qui a un vrai homelab et qui a vraiment bossé.**
 
-![Root-Me](https://img.shields.io/badge/Root--Me-Web%20Serveur-black)
-![Writeups](https://img.shields.io/badge/writeups-13-blue)
+Ce dépôt regroupe mes writeups de challenges (Root-Me, CTF), mes certifications et l'avancement de mon homelab.
 
-## 👤 À propos
+## Pourquoi tout arrive d'un coup
 
-<!-- À compléter : ton parcours, ce que tu recherches (stage, alternance, poste) et tes domaines de prédilection. -->
+Depuis le début, je prends toutes mes notes dans **Notion** : writeups, recherches, avancement du homelab. C'est pour ça qu'il n'y avait pas d'activité sur ce compte avant, et que tout a été publié d'un coup à partir du **2 novembre 2026**.
 
-📫 Contact : [LinkedIn](https://linkedin.com/in/TON-PROFIL) · [Root-Me](https://www.root-me.org/TON-PSEUDO)
+À partir de maintenant, je mets ce dépôt à jour **régulièrement**, au fur et à mesure de mes challenges et de mon homelab.
 
-## 📂 Contenu
+## Root-Me
+
+J'ai commencé à rédiger des writeups Root-Me **quand les challenges ont commencé à se compliquer**. Les premiers challenges, plus simples, n'ont donc pas de writeup.
+
+Pour chaque challenge, je note ma démarche : reconnaissance, exploitation, puis ce que j'ai appris et comment corriger la faille. Conformément aux règles de Root-Me, les flags ne sont pas publiés.
+
+## Contenu
 
 | Section | Description |
 |---|---|
-| [🧩 Root-Me](rootme/) | 13 writeups Web - Serveur : méthodologie, notions et remédiations |
-| [🚩 CTF](ctf/) | Writeups des CTF auxquels j'ai participé |
-| [🎓 Certifications](certifications/) | Certifications et attestations obtenues |
-| [🖥️ Homelab](homelab/) | Architecture, roadmap et avancement de mon lab |
+| [Root-Me](rootme/) | 13 writeups Web - Serveur |
+| [CTF](ctf/) | Writeups des CTF auxquels j'ai participé |
+| [Certifications](certifications/) | Certifications et attestations obtenues |
+| [Homelab](homelab/) | Architecture, roadmap et avancement de mon lab |
 
-## 🧠 Compétences mises en pratique
+## Ce que j'ai pratiqué
 
-- **Vulnérabilités web** : JWT, Mass Assignment, upload de fichiers (double extension, type MIME, null byte), path traversal, injection CRLF, XSS côté serveur, injection de code (`eval`), GraphQL, sessions Flask, `.git` exposé
-- **Outils** : Burp Suite (et l'extension JWT Editor), flask-unsign, git-dumper, wordlists SecLists / rockyou
-- **Démarche** : reconnaissance → hypothèse → exploitation → remédiation
+- **Vulnérabilités web** : JWT, Mass Assignment, upload de fichiers (double extension, type MIME, null byte), directory traversal, injection CRLF, XSS côté serveur, injection de code avec `eval()`, introspection GraphQL, sessions Flask, dossier `.git` exposé
+- **Outils** : Burp Suite (avec l'extension JWT Editor), flask-unsign, git-dumper, SecLists / rockyou
 
-## 📈 Dernières activités
+## Contact
 
-- 2026-11 — Publication de 13 writeups Root-Me (Web - Serveur)
+[LinkedIn](https://linkedin.com/in/TON-PROFIL) · [Root-Me](https://www.root-me.org/TON-PSEUDO)
