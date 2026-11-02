@@ -2,15 +2,19 @@
 
 ## Infos
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 - Catégorie : Réseau
 - Difficulté / Points :
 - Fichiers / URL fournis : une capture Bluetooth
 
 ## Énoncé
 
-*(à compléter)*
+Votre ami travaillant à l’ANSSI a récupéré un fichier illisible dans l’ordi d’un hacker. Tout ce qu’il sait est que cela provient d’un échange entre un ordinateur et un téléphone. A vous d’en apprendre le plus possible sur ce téléphone.
 
-> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+La réponse est le hash SHA1 de la concaténation de l’adresse MAC (en majuscules) et du nom du téléphone.
+
+
 
 ## TL;DR
 
