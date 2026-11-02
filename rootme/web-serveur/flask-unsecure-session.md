@@ -8,7 +8,7 @@
 
 ## Énoncé
 
-*(à compléter)* Le développeur est sûr que sa clé secrète est robuste.
+Le développeur web de la société Flask-me vous affirme qu’utiliser une clé secrète robuste est inutile. Prouvez-lui le contraire !
 
 ## TL;DR
 
