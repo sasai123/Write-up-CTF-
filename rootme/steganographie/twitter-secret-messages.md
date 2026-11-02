@@ -1,16 +1,21 @@
 # Twitter Secret Messages
 
 ## Infos
-
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+> 
 - Catégorie : Stéganographie
 - Difficulté / Points :
 - Fichiers / URL fournis : une phrase en anglais
 
 ## Énoncé
 
-*(à compléter)*
+Nous soupçonnons que ce tweet cache un lieu de rendez-vous. Aidez-nous à le retrouver.
 
-> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+Ｃhｏose  a  jοｂ  yоu  lονｅ,  and  you  ｗіｌl  ｎeｖｅｒ  have  tο  ｗｏrk  a  day  in  yοur  lіfｅ．                        
+
+Le mot de passe de validation est le lieu du rendez-vous (en minuscules).
+
+
 
 ## TL;DR
 
