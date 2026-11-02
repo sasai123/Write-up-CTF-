@@ -1,16 +1,17 @@
 # Steganomobile
 
 ## Infos
-
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+> 
 - Catégorie : Stéganographie
 - Difficulté / Points :
 - Fichiers / URL fournis : une suite de chiffres ressemblant à un numéro de téléphone
 
 ## Énoncé
 
-*(à compléter)*
+Après avoir extrait les données d’un téléphone mobile retrouvé sur les lieux d’un crime, les enquêteurs ont récupéré cette suite de chiffres... Peut-être un numéro de téléphone ?
 
-> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 
 ## TL;DR
 
