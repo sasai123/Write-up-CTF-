@@ -20,16 +20,11 @@ Pour chaque challenge, je note ma démarche : reconnaissance, exploitation, puis
 
 | Section | Description |
 |---|---|
-| [Root-Me](rootme/) | 13 writeups Web - Serveur |
+| [Root-Me](rootme/) | Mes writeups, classés par catégorie |
 | [CTF](ctf/) | Writeups des CTF auxquels j'ai participé |
 | [Certifications](certifications/) | Certifications et attestations obtenues |
 | [Homelab](homelab/) | Architecture, roadmap et avancement de mon lab |
 
-## Ce que j'ai pratiqué
-
-- **Vulnérabilités web** : JWT, Mass Assignment, upload de fichiers (double extension, type MIME, null byte), directory traversal, injection CRLF, XSS côté serveur, injection de code avec `eval()`, introspection GraphQL, sessions Flask, dossier `.git` exposé
-- **Outils** : Burp Suite (avec l'extension JWT Editor), flask-unsign, git-dumper, SecLists / rockyou
-
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/TON-PROFIL) · [Root-Me](https://www.root-me.org/TON-PSEUDO)
+[LinkedIn](https://www.linkedin.com/in/amine-bella-5a6605343/) · [Root-Me](https://www.root-me.org/Grid2)
