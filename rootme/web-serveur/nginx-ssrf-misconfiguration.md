@@ -1,6 +1,7 @@
 # Nginx - SSRF Misconfiguration
 
 ## Infos
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
 
 - Catégorie : Web - Serveur
 - Difficulté / Points :
@@ -8,9 +9,9 @@
 
 ## Énoncé
 
-*(à compléter)*
+Un développeur a ajouté une nouvelle fonctionnalité à son site web. Il ne comprend pas en quoi cette fonctionnalité est dangereuse et pense avoir correctement filtré les entrées. Prouvez-lui le contraire !
 
-> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 
 ## TL;DR
 
