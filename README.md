@@ -21,7 +21,6 @@ Pour chaque challenge, je note ma démarche : reconnaissance, exploitation, puis
 | Section | Description |
 |---|---|
 | [Root-Me](rootme/) | Mes writeups, classés par catégorie |
-| [CTF](ctf/) | Writeups des CTF auxquels j'ai participé |
 | [Certifications](certifications/) | Certifications et attestations obtenues |
 | [Homelab](homelab/) | Architecture, roadmap et avancement de mon lab |
 
