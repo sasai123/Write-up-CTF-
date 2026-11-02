@@ -2,15 +2,16 @@
 
 ## Infos
 
+> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
+
 - Catégorie : Web - Client
 - Difficulté / Points :
 - Fichiers / URL fournis : http://challenge01.root-me.org/web-client/ch22/
 
 ## Énoncé
 
-*(à compléter)*
+Activez votre compte pour accéder à l’espace privé de l’intranet.
 
-> Challenge réalisé au terminal (Linux) : les étapes sont retranscrites en commandes, il n'y a donc pas de captures d'écran.
 
 ## TL;DR
 
