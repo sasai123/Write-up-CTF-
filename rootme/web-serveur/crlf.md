@@ -8,7 +8,7 @@
 
 ## Énoncé
 
-*(à compléter)* Le but est d'injecter de fausses données dans le journal (log) de l'application.
+Injectez des données erronées dans le fichier de journalisation
 
 ## TL;DR
 
