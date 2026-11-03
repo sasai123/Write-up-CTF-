@@ -69,3 +69,6 @@ h = QNKCDZO
 2. Les **magic hash** : des chaînes dont le MD5 a la forme `0e<chiffres>`, interprété comme `0` en comparaison numérique (ce n'est pas du Python : `0e123` est une notation scientifique = `0 × 10^123 = 0`).
 3. **Précision importante** : PHP 8 a corrigé le cas `0 == "abc"` (qui donnait `true` avant), mais le magic hash marche toujours, car ici **les deux côtés** sont des chaînes numériques `0e<chiffres>` comparées comme des nombres.
 4. **Remédiation** : utiliser la comparaison stricte `===` (ou `!==`), qui compare aussi le type et n'est pas trompée par `0e...`. Et ne pas utiliser MD5 pour quoi que ce soit de sensible.
+
+## Ressources
+-https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Type%20Juggling/README.md
