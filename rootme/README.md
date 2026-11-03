@@ -15,6 +15,7 @@
 | [Directory traversal](web-serveur/directory-traversal.md) | 25 | Path traversal |
 | [File upload - Null byte](web-serveur/file-upload-null-byte.md) | 25 | Null byte `%00` |
 | [Node - Eval](web-serveur/node-eval.md) | 30 | `eval()`, RCE Node.js |
+| [PHP - Loose Comparison](web-serveur/php-loose-comparison.md) | 30 | Type juggling PHP, magic hash |
 | [File upload - Double extensions](web-serveur/file-upload-double-extensions.md) | 20 | Double extension, webshell PHP |
 | [File upload - Type MIME](web-serveur/file-upload-type-mime.md) | 20 | Content-Type, Burp Suite |
 | [Flask - Unsecure session](web-serveur/flask-unsecure-session.md) | 20 | Session Flask, flask-unsign |
