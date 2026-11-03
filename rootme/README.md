@@ -8,6 +8,7 @@
 | [HTTP - Cookies](web-serveur/http-cookies.md) | 20 | Cookies, contrôle d'accès côté client |
 | [JWT - Introduction](web-serveur/jwt-introduction.md) | 20 | JWT, algorithme `none` |
 | [JWT - Revoked token](web-serveur/jwt-revoked-token.md) | 25 | JWT, blacklist, padding Base64 |
+| [JWT - Weak secret](web-serveur/jwt-weak-secret.md) | 25 | JWT, brute-force du secret HMAC |
 | [GraphQL - Introspection](web-serveur/graphql-introspection.md) | 20 | GraphQL, introspection |
 | [Insecure Code Management](web-serveur/insecure-code-management.md) | 20 | `.git` exposé, git-dumper |
 | [XSS - Server Side](web-serveur/xss-server-side.md) | 20 | XSS côté serveur, PDF dynamique |
