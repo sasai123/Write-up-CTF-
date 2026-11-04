@@ -69,3 +69,8 @@ Le serveur renvoie le warning `strcmp() expects parameter 1 to be string, array 
 3. Le passage d'un **tableau** à une fonction qui attend une chaîne (`strcmp`) renvoie `NULL` dans les vieux PHP, et `!NULL == true`.
 4. Quand le JavaScript du formulaire modifie l'entrée (ici, hachage côté client), passer par **curl** pour envoyer exactement ce qu'on veut au serveur.
 5. **Remédiation** : utiliser la comparaison stricte `===`, vérifier le **type** des entrées (`is_string()`) avant de les passer à `strcmp`, et comparer les hashs avec `hash_equals()`.
+
+## Ressources
+https://www.mayhemcode.com/2025/10/php-strcmp-vulnerability-explained.html
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Type%20Juggling/README.md
+   
