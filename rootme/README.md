@@ -19,6 +19,7 @@
 | [PHP - preg_replace()](web-serveur/php-preg-replace.md) | 30 | RCE via `preg_replace /e` |
 | [PHP - type juggling](web-serveur/php-type-juggling.md) | 30 | Type juggling, strcmp + tableau |
 | [Remote File Inclusion](web-serveur/remote-file-inclusion.md) | 30 | RFI, allow_url_include, tunnel |
+| [Ruby on Rails - Ransack](web-serveur/ruby-on-rails-ransack.md) | 30 | Injection ORM, Ransack, extraction booléenne |
 | [File upload - Double extensions](web-serveur/file-upload-double-extensions.md) | 20 | Double extension, webshell PHP |
 | [File upload - Type MIME](web-serveur/file-upload-type-mime.md) | 20 | Content-Type, Burp Suite |
 | [Flask - Unsecure session](web-serveur/flask-unsecure-session.md) | 20 | Session Flask, flask-unsign |
